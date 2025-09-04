@@ -1,0 +1,15 @@
+www.youtube.com##grid-shelf-view-model.ytGridShelfViewModelHostHasBottomButton.ytd-item-section-renderer.ytGridShelfViewModelHost
+www.youtube.com##ytd-shelf-renderer.ytd-item-section-renderer.style-scope > .ytd-shelf-renderer.style-scope
+www.youtube.com##ytd-mini-guide-renderer.ytd-app.style-scope
+
+www.youtube.com###content > .ytd-rich-section-renderer.style-scope
+www.youtube.com###guide-inner-content
+www.youtube.com###country-code
+www.youtube.com###guide-button
+www.youtube.com###secondary
+www.youtube.com###comments
+www.youtube.com###end
+
+www.youtube.com##.ytp-show-tiles.videowall-endscreen.ytp-player-content.html5-endscreen
+www.youtube.com##.ytSearchboxComponentSuggestionsContainer
+
