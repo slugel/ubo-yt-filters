@@ -10,7 +10,8 @@ www.youtube.com###country-code
 www.youtube.com###guide-button
 www.youtube.com###end
 
-! By order: Disable side suggestions, disable comments
+! By order: Disable side suggestions (first two), disable comments
+www.youtube.com##ytd-watch-next-secondary-results-renderer.ytd-watch-flexy.style-scope > .ytd-watch-next-secondary-results-renderer.style-scope
 www.youtube.com###secondary
 www.youtube.com###comments
 
@@ -19,3 +20,6 @@ www.youtube.com##.ytp-show-tiles.videowall-endscreen.ytp-player-content.html5-en
 
 ! Disable search suggestions
 www.youtube.com##.ytSearchboxComponentSuggestionsContainer
+
+! Block home screen suggestions
+! www.youtube.com##ytd-browse.ytd-page-manager[page-subtype="home"]
